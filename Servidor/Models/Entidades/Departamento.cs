@@ -7,7 +7,7 @@
         public string Nome { get; set; }
 
         //
-        public List<Funcionario> funcionarios { get; set; }
+        public ICollection<DepartamentoFuncionario> Departamentofuncionarios { get; set; }
 
     }
 }

@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\models\\entidades\\alunofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:models\\entidades\\alunofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\context\\academiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:context\\academiacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\migrations\\20250201020204_migrationinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:migrations\\20250201020204_migrationinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\migrations\\academiacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:migrations\\academiacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\models\\entidades\\departamentofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:models\\entidades\\departamentofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\models\\entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:models\\entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\models\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:models\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\models\\entidades\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:models\\entidades\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\models\\entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:models\\entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +50,129 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DepartamentoFuncionario.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\DepartamentoFuncionario.cs",
-              "RelativeDocumentMoniker": "Models\\Entidades\\DepartamentoFuncionario.cs",
-              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\DepartamentoFuncionario.cs",
-              "RelativeToolTip": "Models\\Entidades\\DepartamentoFuncionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AcademiaContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Migrations\\AcademiaContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AcademiaContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Migrations\\AcademiaContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AcademiaContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T01:21:30.464Z",
+              "WhenOpened": "2025-02-01T02:02:10.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250201020204_MigrationInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Migrations\\20250201020204_MigrationInicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250201020204_MigrationInicial.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Migrations\\20250201020204_MigrationInicial.cs",
+              "RelativeToolTip": "Migrations\\20250201020204_MigrationInicial.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:02:04.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:56:50.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T01:54:01.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AcademiaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Context\\AcademiaContext.cs",
+              "RelativeDocumentMoniker": "Context\\AcademiaContext.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Context\\AcademiaContext.cs",
+              "RelativeToolTip": "Context\\AcademiaContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:43:26.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoFunc.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\AlunoFunc.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\AlunoFunc.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\AlunoFunc.cs",
+              "RelativeToolTip": "Models\\Entidades\\AlunoFunc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:31:07.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Aluno.cs",
+              "RelativeToolTip": "Models\\Entidades\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:27:38.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartamentoFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\DepartamentoFuncionario.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\DepartamentoFuncionario.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\DepartamentoFuncionario.cs",
+              "RelativeToolTip": "Models\\Entidades\\DepartamentoFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:21:30.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Departamento.cs",
               "RelativeDocumentMoniker": "Models\\Entidades\\Departamento.cs",
               "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Departamento.cs",
               "RelativeToolTip": "Models\\Entidades\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T01:18:30.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T01:18:30.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Funcionario.cs",
               "RelativeDocumentMoniker": "Models\\Entidades\\Funcionario.cs",
               "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Funcionario.cs",
               "RelativeToolTip": "Models\\Entidades\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T01:07:48.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T01:07:48.928Z"
             }
           ]
         }

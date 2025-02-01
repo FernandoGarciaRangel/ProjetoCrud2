@@ -13,7 +13,9 @@
 
         //relacionamento
 
-        public Departamento departamento { get; set; }
+        public ICollection<AlunoFunc> AlunoFuncs{ get; set; }
+
+        public DepartamentoFuncionario DepartamentoFuncionario { get; set; }
     }
 
 }
