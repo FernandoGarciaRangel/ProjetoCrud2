@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\models\\entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:models\\entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\servidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:servidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\models\\entidades\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:models\\entidades\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|c:\\users\\fernando garcia\\desktop\\github\\projetocrud2\\servidor\\models\\entidades\\departamentofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB89C49-A670-4150-8C2A-AE936A3467B2}|Servidor.csproj|solutionrelative:models\\entidades\\departamentofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\DepartamentoFuncionario.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\DepartamentoFuncionario.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\DepartamentoFuncionario.cs",
+              "RelativeToolTip": "Models\\Entidades\\DepartamentoFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T00:42:50.152Z",
+              "WhenOpened": "2025-02-01T01:21:30.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Servidor",
-              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Servidor.csproj",
-              "RelativeDocumentMoniker": "Servidor.csproj",
-              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Servidor.csproj",
-              "RelativeToolTip": "Servidor.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T00:40:14.343Z",
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Departamento.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Departamento.cs",
+              "RelativeToolTip": "Models\\Entidades\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:18:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Fernando Garcia\\Desktop\\GitHub\\ProjetoCrud2\\Servidor\\Models\\Entidades\\Funcionario.cs",
+              "RelativeToolTip": "Models\\Entidades\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:07:48.928Z",
               "EditorCaption": ""
             }
           ]
